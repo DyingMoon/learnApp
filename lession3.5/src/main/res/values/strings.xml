@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">lession3.5</string>
-    <string name="text1">发现有widget的新版本，你想现在就安装吗？</string>
-    <string name="button1">现在更新</string>
-    <string name="button2">以后再说</string>
-</resources>

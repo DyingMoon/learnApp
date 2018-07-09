@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">lession3.6</string>
-    <string name="hint">QQ号/微信号/</string>
-    <string name="mima">密码</string>
-    <string name="zhanghao">账号</string>
-    <string name="wenti">登陆遇到问题？</string>
-    <string name="login">登录</string>
-</resources>
