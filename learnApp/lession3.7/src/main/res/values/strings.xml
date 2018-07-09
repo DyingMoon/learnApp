@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lession3.7</string>
+    <string name="normal">蓝色背景的TextView</string>
+    <string name="sky">天蓝色背景的TextView</string>
+    <string name="water">水蓝色背景的TextView</string>
+</resources>

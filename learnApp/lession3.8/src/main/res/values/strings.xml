@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lession3.8</string>
+    <string name="uersname">账 号：</string>
+    <string name="usersnamehint">邮箱或者手机号</string>
+    <string name="password">密 码：</string>
+    <string name="passwordhint">输入6-16位数字或字母</string>
+    <string name="signup">注 册</string>
+    <string name="loginin">登 录</string>
+    <string name="forget">忘记密码？</string>
+</resources>
